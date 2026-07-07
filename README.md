@@ -1,6 +1,13 @@
 ## Hi there 👋
 
-Copyright. This repository is copyrighted and not licensed under open source terms.
+## 🌐 Website
+
+for [PilzApps](https://pilzapps.github.io/)
+
+## 📜 Licence
+
+Copyright: This repository is copyrighted and _not_ licensed under open source terms. 
+
 <!--
 **pilzapps/pilzapps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
